@@ -7,6 +7,8 @@ The folder **"Learning101"** contains a step by step guide to understand the **"
 
 
 #### References
+* https://www.python.org/
+* https://www.oreilly.com/library/view/python-for-data/9781491957653/
 * https://www.w3schools.com/python/python_howto_reverse_string.asp
 * https://www.geeksforgeeks.org/print-lists-in-python-4-different-ways/
 * https://www.w3schools.com/python/ref_string_join.asp
