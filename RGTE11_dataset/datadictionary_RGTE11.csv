@@ -1,0 +1,254 @@
+Code,Descriptor,Field format,Calculated field? Yes/No
+REGION,WHO Region,Text,No
+COUNTRY,Member State,Text,No
+Popn_2010,National Population according to the United Nations Statistics Division population estimates for 2010,Text,No
+Inc_group_2010,Income Group 2010,Text,No
+M_Group,M Group,Text,Yes
+P_Group,P Group,Text,Yes
+O_Group,O Group,Text,Yes
+W_Group,W Group,Text,Yes
+W_MM_Group,W MM Group,Text,Yes
+E_Group,E Group,Text,Yes
+R_Group,R Group,Text,Yes
+NTCP_Group,NTCP Group,Text,Yes
+Survey_title,Reference/Title of Publication,Text,No
+Survey_year,Year of latest prevalence survey,Year,No
+Survey_national,Representativeness of latest prevalence survey,Text,No
+Survey_age_grp,Smoking Definition 1. Age group (Start age in years - End age in years),Text,No
+Smk_1_def,Smoking Definition 1 ,Text,No
+Smk_1_tob_use_M,Smoking Definition 1. Male prevalence %,Numeric,No
+Smk_1_tob_use_F,Smoking Definition 1. Female prevalence %,Numeric,No
+Smk_1_tob_use_B,Smoking Definition 1. Both sexes prevalence %,Numeric,No
+Smk_2_def,Smoking Definition 2 ,Text,No
+Smk_2_tob_use_M,Smoking Definition 2. Male prevalence %,Numeric,No
+Smk_2_tob_use_F,Smoking Definition 2. Female prevalence %,Numeric,No
+Smk_2_tob_use_B,Smoking Definition 2. Both sexes prevalence %,Numeric,No
+Smkless_def,Smokeless definition 1 ,Text,No
+Smkless_tob_use_M,Smokeless definition 1. Male prevalence %,Numeric,No
+Smkless_tob_use_F,Smokeless definition 1. Female prevalence %,Numeric,No
+Smkless_tob_use_B,Smokeless definition 1. Both sexes prevalence %,Numeric,No
+Tobacco_M_Current,2009 estimate of current tobacco smoking male prevalence %,Numeric,No
+Tobacco_M_Daily,2009 estimate of daily tobacco smoking male prevalence %,Numeric,No
+Tobacco_F_Current,2009 estimate of current tobacco smoking female prevalence %,Numeric,No
+Tobacco_F_Daily,2009 estimate of daily tobacco smoking female prevalence %,Numeric,No
+Cigarettes_M_Current,2009 estimate of current cigarette smoking male prevalence %,Numeric,No
+Cigarettes_M_Daily,2009 estimate of daily cigarette smoking male prevalence %,Numeric,No
+Cigarettes_F_Current,2009 estimate of current cigarette smoking female prevalence %,Numeric,No
+Cigarettes_F_Daily,2009 estimate of daily cigarette smoking female prevalence %,Numeric,No
+Tobacco_B_Current,2009 estimate of current tobacco smoking both sexes prevalence %,Numeric,No
+Tobacco_B_Daily,2009 estimate of daily tobacco smoking both sexes prevalence %,Numeric,No
+Cigarettes_B_Current,2009 estimate of current cigarette smoking both sexes prevalence %,Numeric,No
+Cigarettes_B_Daily,2009 estimate of daily cigarette smoking both sexes prevalence %,Numeric,No
+P1,National smoking ban in HEALTH-CARE FACILITIES,Text,No
+P2,National smoking ban in EDUCATIONAL FACILITIES EXCEPT UNIVERSITIES,Text,No
+P3,National smoking ban in UNIVERSITIES,Text,No
+P4,National smoking ban in GOVERNMENT FACILITIES,Text,No
+P5,National smoking ban in INDOOR OFFICES,Text,No
+P6,National smoking ban in RESTAURANTS,Text,No
+P7,National smoking ban in PUBS AND BARS,Text,No
+P8,National smoking ban in PUBLIC TRANSPORT,Text,No
+P9,National smoking ban in ALL OTHER INDOOR PUBLIC PLACES,Text,No
+C2,National smoking ban: OVERALL COMPLIANCE OF REGULATIONS ON SMOKE-FREE ENVIRONMENTS,Numeric,No
+P17,National smoking ban: NUMBER OF PLACES SMOKE-FREE,Numeric,Yes
+P11,National smoking ban: FINES FOR VIOLATIONS ,Text,No
+P12,National smoking ban: FINES ON THE ESTABLISHMENT,Text,No
+P13,National smoking ban: FINES ON THE PATRON,Text,No
+P14,National smoking ban: DEDICATED FUNDS FOR ENFORCEMENT,Text,No
+P15,National smoking ban: CITIZEN COMPLAINTS AND INVESTIGATIONS,Text,No
+P10,Subnational smoking bans - authority exists ,Text,No
+P16,Subnational smoking bans - comprehensive bans in place,Text,Yes
+O1,Population has access to a toll-free quit line,Text,No
+O2,Nicotine replacement therapy available,Text,No
+O3,Nicotine replacement therapy place available,Text,No
+O6,Bupropion available,Text,No
+O7,Bupropion place available,Text,No
+O9,Varenicline available,Text,No
+O10,Varenicline place available,Text,No
+O12,Smoking cessation support is available in primary care facilities,Text,No
+O13,Smoking cessation support is available in hospitals,Text,No
+O14,Smoking cessation support is available in offices of health professionals,Text,No
+O15,Smoking cessation support is available in the community,Text,No
+O16,Smoking cessation support is available in other places,Text,No
+W1A,Does the law mandate that health warnings appear on tobacco packages?,Text,No
+W2A,Cigarettes: What percentage of the principal display areas of the package is legally mandated to be covered by health warnings?  FRONT AND REAR COMBINED,Numeric,No
+W3A,Cigarettes: What percentage of the principal display areas of the FRONT of the package is legally mandated to be covered by health warnings?  ,Numeric,No
+W4A,Cigarettes: What percentage of the principal display areas of the REAR of the package is legally mandated to be covered by health warnings?  ,Numeric,No
+W15A,Cigarettes: Does the law mandate specific health warnings on cigarette packages?,Text,No
+W16A,Cigarettes: How many specific health warnings are approved by the law?,Numeric,No
+W11A,Cigarettes: Do health warnings appear on each package and any outside packaging and labelling used in the retail sale?,Text,No
+W14A,Cigarettes: Do health warnings on packages describe the harmful effects of tobacco use on health?,Text,No
+W6A,"Cigarettes: Does the law mandate font style, font size and colour for package warnings?",Text,No
+W7A,Cigarettes: Are the health warnings rotating on packages?,Text,No
+W8A,Cigarettes: Are the health warnings on packages written in the principal language(s) of the country?,Text,No
+W10A,Cigarettes: Do the health warnings on packages include a photograph or graphic?,Text,No
+W5A,Cigarettes: Does the law mandate that the warning be placed at the top of the principle display areas of the package?,Text,No
+W13A,Cigarettes: Does the law state that warnings on packages do not remove or diminish the liability of the tobacco industry?,Text,No
+W12A,"Cigarettes: Does the law on health warnings apply to products whether manufactured domestically, imported, AND for duty-free sale?",Text,No
+W9A,"Cigarettes: Does the law require that heath warnings on packages are not obscured in any way, including by required markings such as tax stamps?",Text,No
+W17A,Cigarettes: Does the law require or establish fines for violations regarding health warnings on packages?,Text,No
+W18A,"Cigarettes: Are there any laws requiring that cigarette packaging and labelling do not use misleading terms which imply the product is less harmful than other similar products, such as “low tar”, “light”, “ultra-light”, or “mild”?",Text,No
+W19A,"Cigarettes: Are there any laws requiring that cigarette packaging and labelling do not use figurative or other signs, including colors or numbers, as substitutes for prohibited misleading terms and descriptors?",Text,No
+W20A,Cigarettes: Are there any laws requiring that cigarette packaging and labelling do not use descriptors depicting flavours?,Text,No
+W21A,"Cigarettes: Does the law ban the display of quantitative information on emission yields (such as tar, nicotine and carbon monoxide) on cigarette packaging, including when used as part of a brand name or trademark?",Text,No
+W25A,Cigarettes: Is it mandatory for the quit line number to appear on packaging or labelling?,Text,No
+W26A,"Cigarettes: Does the law mandate plain packaging (ie. prohibit the use of logos, colours, brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style)?",Text,No
+W1C,Does the law mandate that health warnings appear on smokeless tobacco packages?,Text,Yes
+W2C,Smokeless tobacco: What percentage of the principal display areas of the package is legally mandated to be covered by health warnings?  FRONT AND REAR COMBINED,Numeric,No
+W3C,Smokeless tobacco: What percentage of the principal display areas of the FRONT of the package is legally mandated to be covered by health warnings?  ,Numeric,No
+W4C,Smokeless tobacco: What percentage of the principal display areas of the REAR of the package is legally mandated to be covered by health warnings?  ,Numeric,No
+W15C,Smokeless tobacco: Does the law mandate specific health warnings on cigarette packages?,Text,No
+W16C,Smokeless tobacco: How many specific health warnings are approved by the law?,Numeric,No
+W11C,Smokeless tobacco: Do health warnings appear on each package and any outside packaging and labelling used in the retail sale?,Text,No
+W14C,Smokeless tobacco: Do health warnings on packages describe the harmful effects of tobacco use on health?,Text,No
+W6C,"Smokeless tobacco: Does the law mandate font style, font size and colour for package warnings?",Text,No
+W7C,Smokeless tobacco: Are the health warnings rotating on packages?,Text,No
+W8C,Smokeless tobacco: Are the health warnings on packages written in the principal language(s) of the country?,Text,No
+W10C,Smokeless tobacco: Do the health warnings on packages include a photograph or graphic?,Text,No
+W5C,Smokeless tobacco: Does the law mandate that the warning be placed at the top of the principle display areas of the package?,Text,No
+W13C,Smokeless tobacco: Does the law state that warnings on packages do not remove or diminish the liability of the tobacco industry?,Text,No
+W12C,"Smokeless tobacco: Does the law on health warnings apply to products whether manufactured domestically, imported, AND for duty-free sale?",Text,No
+W9C,"Smokeless tobacco: Does the law require that heath warnings on packages are not obscured in any way, including by required markings such as tax stamps?",Text,No
+W17C,Smokeless tobacco: Does the law require or establish fines for violations regarding health warnings on packages?,Text,No
+W18C,"Smokeless tobacco: Are there any laws requiring that cigarette packaging and labelling do not use misleading terms which imply the product is less harmful than other similar products, such as “low tar”, “light”, “ultra-light”, or “mild”?",Text,No
+W19C,"Smokeless tobacco: Are there any laws requiring that cigarette packaging and labelling do not use figurative or other signs, including colors or numbers, as substitutes for prohibited misleading terms and descriptors?",Text,No
+W20C,Smokeless tobacco: Are there any laws requiring that cigarette packaging and labelling do not use descriptors depicting flavours?,Text,No
+W21C,"Smokeless tobacco: Does the law ban the display of quantitative information on emission yields (such as tar, nicotine and carbon monoxide) on packaging, including when used as part of a brand name or trademark?",Text,No
+W25C,Smokeless tobacco: Is it mandatory for the quit line number to appear on packaging or labelling?,Text,No
+W26C,"Smokeless tobacco: Does the law mandate plain packaging (ie. prohibit the use of logos, colours, brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style)?",Text,No
+MM1,Did the country have at least one national mass media campaign during 2009 or 2010?,Text,No
+MM2,Campaign was part of a comprehensive tobacco control programme,Text,No
+MM3,Campaign was pre-tested,Text,No
+MM4,Formative research was conducted,Text,No
+MM5,Campaign utilized media planning,Text,No
+MM6,Earned media/public relations were used to promote the campaign,Text,No
+MM7,Process evaluation was employed to assess implementation,Text,No
+MM8,Outcome evaluation was employed to assess effectiveness,Text,No
+E1,Ban on advertising: National TV and radio,Text,No
+E2,"Ban on advertising: International TV and radio (broadcast from abroad, including satellite)",Text,No
+E3,Ban on advertising: Local magazines and newspapers,Text,No
+E4,Ban on advertising: International magazines and newspapers,Text,No
+E5,Ban on advertising: Billboards and outdoor advertising,Text,No
+E6,Ban on advertising: Point of sale,Text,No
+E7,Ban on advertising: Internet,Text,No
+C3,Overall compliance of ban on direct advertising,Numeric,No
+E17,"Subnational laws or regulations exist banning some or all types of tobacco advertising, promotion and sponsorship",Text,No
+E9,Ban on free distribution of tobacco products in the mail or through other means,Text,No
+E10,Ban on promotional discounts,Text,No
+E11,Ban on non-tobacco goods AND services identified with tobacco brand names,Text,No
+E12,Ban on brand name of non-tobacco products used for tobacco product,Text,No
+E13,Ban on appearance of tobacco brands in TV and/or films (product placement),Text,No
+E14,Ban on appearance of tobacco products in TV and/or films,Text,No
+E15,Ban on sponsored events,Text,No
+C4,Overall compliance of bans on promotion and sponsorship,Numeric,No
+R1,Price of a 20-cigarette pack of the most sold brand in reported currency,Numeric,No
+R2,Price of a 20-cigarette pack of the most sold brand currency reported (ISO codes),Text,No
+R3,Price of a 20-cigarette pack of the most sold brand international dollars (at purchasing power parity),Numeric,Yes
+R4,Price of a 20-cigarette pack of the most sold brand in usd at official exchange rates,Numeric,Yes
+R5,Taxes as a % of price of the most sold brand: specific excise,Numeric,Yes
+R6,Taxes as a % of price of the most sold brand: ad valorem excise,Numeric,Yes
+R7,Taxes as a % of price of the most sold brand: import duties,Numeric,Yes
+R8,"Taxes as a % of price of the most sold brand: total tax (includes excise taxes, import duties if applicable, VAT and other taxes not elsewhere specified, reported as at 31 july 2010 and not reflecting tax increases/changes that might have occurred after that date)",Numeric,Yes
+R9,Taxes as a % of price of the most sold brand: % excise tax,Numeric,Yes
+R10,Taxes as a % of price of the most sold brand: % all other taxes,Numeric,Yes
+R11,Price of a 20-cigarette pack of the most sold brand: international dollars (PPP),Numeric,Yes
+R12,Price of a 20-cigarette pack of the cheapest brand: international dollars (PPP),Numeric,Yes
+R13,Price of a 20-pack of the most sold brand of bidis in reported currency,Numeric,No
+R14,Price of a 20-pack of the most sold brand of bidis currency reported (ISO codes),Text,No
+R15,Price of a 20-pack of the most sold brand of bidis international dollars (at purchasing power parity),Numeric,Yes
+R16,Price of a 20-pack of the most sold brand of bidis in usd at official exchange rates,Numeric,Yes
+R17,Taxes as a % of price of the most sold brand of bidis: specific excise,Numeric,Yes
+R18,Taxes as a % of price of the most sold brand of bidis: ad valorem excise,Numeric,Yes
+R19,Taxes as a % of price of the most sold brand of bidis: import duties,Numeric,Yes
+R20,"Taxes as a % of price of the most sold brand of bidis: total tax (includes excise taxes, import duties if applicable, VAT and other taxes not elsewhere specified reported as at 31 July 2010 and not reflecting tax increases/changes that might have occurred after that date)",Numeric,Yes
+R21,Tobacco excises have been increased overall since 2008 however due to price variability the effect is not necessarily apparent in the tax indicators.,Text,No
+N1,Government objectives on tobacco control exist,Text,No
+N2,National agency for tobacco control exists,Text,No
+N3,National agency number of full-time-equivalent staff ,Numeric,No
+N4,Overall national budget for tobacco control activities (latest available year): in reported currency,Numeric,No
+N5,Overall national budget for tobacco control activities (latest available year): currency reported (ISO codes),Text,No
+N6,Overall national budget for tobacco control activities (latest available year): in us$ at official exchange rate,Numeric,Yes
+P1_N,Footnote for P1,Text,No
+P2_N,Footnote for P2,Text,No
+P3_N,Footnote for P3,Text,No
+P4_N,Footnote for P4,Text,No
+P5_N,Footnote for P5,Text,No
+P6_N,Footnote for P6,Text,No
+P7_N,Footnote for P7,Text,No
+P8_N,Footnote for P8,Text,No
+P9_N,Footnote for P9,Text,No
+C2_N,Footnote for C2,Text,No
+P17_N,Footnote for P17,Text,No
+P11_N,Footnote for P11,Text,No
+P12_N,Footnote for P12,Text,No
+P13_N,Footnote for P13,Text,No
+P14_N,Footnote for P14,Text,No
+P15_N,Footnote for P15,Text,No
+P10_N,Footnote for P10,Text,No
+P16_N,Footnote for P16,Text,No
+O3_N,Footnote for O3,Text,No
+W1A_N,Footnote for W1A,Text,No
+W2A_N,Footnote for W2A,Text,No
+W3A_N,Footnote for W3A,Text,No
+W4A_N,Footnote for W4A,Text,No
+W15A_N,Footnote for W15A,Text,No
+W16A_N,Footnote for W16A,Text,No
+W11A_N,Footnote for W11A,Text,No
+W14A_N,Footnote for W14A,Text,No
+W6A_N,Footnote for W6A,Text,No
+W7A_N,Footnote for W7A,Text,No
+W8A_N,Footnote for W8A,Text,No
+W10A_N,Footnote for W10A,Text,No
+W5A_N,Footnote for W5A,Text,No
+W13A_N,Footnote for W13A,Text,No
+W12A_N,Footnote for W12A,Text,No
+W9A_N,Footnote for W9A,Text,No
+W17A_N,Footnote for W17A,Text,No
+W18A_N,Footnote for W18A,Text,No
+W19A_N,Footnote for W19A,Text,No
+W20A_N,Footnote for W20A,Text,No
+W21A_N,Footnote for W21A,Text,No
+W25A_N,Footnote for W25A,Text,No
+W26A_N,Footnote for W26A,Text,No
+W1C_N,Footnote for W1C,Text,No
+W2C_N,Footnote for W2C,Text,No
+W3C_N,Footnote for W3C,Text,No
+W4C_N,Footnote for W4C,Text,No
+W15C_N,Footnote for W15C,Text,No
+W16C_N,Footnote for W16C,Text,No
+W11C_N,Footnote for W11C,Text,No
+W14C_N,Footnote for W14C,Text,No
+W6C_N,Footnote for W6C,Text,No
+W7C_N,Footnote for W7C,Text,No
+W8C_N,Footnote for W8C,Text,No
+W10C_N,Footnote for W10C,Text,No
+W5C_N,Footnote for W5C,Text,No
+W13C_N,Footnote for W13C,Text,No
+W12C_N,Footnote for W12C,Text,No
+W9C_N,Footnote for W9C,Text,No
+W17C_N,Footnote for W17C,Text,No
+W18C_N,Footnote for W18C,Text,No
+W19C_N,Footnote for W19C,Text,No
+W20C_N,Footnote for W20C,Text,No
+W21C_N,Footnote for W21C,Text,No
+W25C_N,Footnote for W25C,Text,No
+W26C_N,Footnote for W26C,Text,No
+MM_N,Footnote for all mass media questions,Text,No
+E1_N,Footnote for E1,Text,No
+E2_N,Footnote for E2,Text,No
+E3_N,Footnote for E3,Text,No
+E4_N,Footnote for E4,Text,No
+E5_N,Footnote for E5,Text,No
+E6_N,Footnote for E6,Text,No
+E7_N,Footnote for E7,Text,No
+C3_N,Footnote for C3,Text,No
+E17_N,Footnote for E17,Text,No
+E9_N,Footnote for E9,Text,No
+E10_N,Footnote for E10,Text,No
+E11_N,Footnote for E11,Text,No
+E12_N,Footnote for E12,Text,No
+E13_N,Footnote for E13,Text,No
+E14_N,Footnote for E14,Text,No
+E15_N,Footnote for E15,Text,No
+C4_N,Footnote for C4,Text,No
+R_N,Footnote for all tax and prices questions,Text,No
+End of file.,,,

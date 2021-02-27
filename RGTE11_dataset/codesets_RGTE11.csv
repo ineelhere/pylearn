@@ -1,0 +1,132 @@
+Fieldname,Value,Descriptor
+REGION,AFR,Africa
+,AMR,The Americas
+,EMR,Eastern Mediterranean
+,EUR,Europe
+,SEAR,South-East Asia
+,WPR,Western Pacific
+All numeric fields (excl monetary fields),966,Not mandated
+All numeric fields (excl monetary fields),977,Value is between 0 and 1%
+All numeric fields (excl monetary fields),988,Data not reported/not available
+All numeric fields (excl monetary fields),999,Data not required/not applicable
+All monetary fields,NR,Data not reported/not available
+All monetary fields,NA,Data not required/not applicable
+All text fields,NR,Data not reported/not available
+All text fields,NA,Data not required/not applicable
+All year fields,2888,Data not reported/not available
+All year fields,2999,Data not required/not applicable
+P1,Yes,"Yes, legislation adopted"
+,No,"No, legislation not adopted"
+,*,"Separate, completely enclosed smoking rooms are allowed under very strict conditions.  Refer to Technical Note I for more details."
+P2,Yes,"Yes, legislation adopted"
+,No,"No, legislation not adopted"
+,*,"Separate, completely enclosed smoking rooms are allowed under very strict conditions.  Refer to Technical Note I for more details."
+P3,Yes,"Yes, legislation adopted"
+,No,"No, legislation not adopted"
+,*,"Separate, completely enclosed smoking rooms are allowed under very strict conditions.  Refer to Technical Note I for more details."
+P4,Yes,"Yes, legislation adopted"
+,No,"No, legislation not adopted"
+,*,"Separate, completely enclosed smoking rooms are allowed under very strict conditions.  Refer to Technical Note I for more details."
+P5,Yes,"Yes, legislation adopted"
+,No,"No, legislation not adopted"
+,*,"Separate, completely enclosed smoking rooms are allowed under very strict conditions.  Refer to Technical Note I for more details."
+P6,Yes,"Yes, legislation adopted"
+,No,"No, legislation not adopted"
+,*,"Separate, completely enclosed smoking rooms are allowed under very strict conditions.  Refer to Technical Note I for more details."
+P7,Yes,"Yes, legislation adopted"
+,No,"No, legislation not adopted"
+,*,"Separate, completely enclosed smoking rooms are allowed under very strict conditions.  Refer to Technical Note I for more details."
+P8,Yes,"Yes, legislation adopted"
+,No,"No, legislation not adopted"
+,*,"Separate, completely enclosed smoking rooms are allowed under very strict conditions.  Refer to Technical Note I for more details."
+C2,1-2,"Minimal compliance.  Refer to WHO Report on the Global Tobacco Epidemic, 2011, Technical Note I for more information."
+,3-7,"Moderate compliance.  Refer to WHO Report on the Global Tobacco Epidemic, 2011, Technical Note I for more information."
+,8-10,"Complete compliance.  Refer to WHO Report on the Global Tobacco Epidemic, 2011, Technical Note I for more information."
+C3,1-2,"Minimal compliance.  Refer to WHO Report on the Global Tobacco Epidemic, 2011, Technical Note I for more information."
+,3-7,"Moderate compliance.  Refer to WHO Report on the Global Tobacco Epidemic, 2011, Technical Note I for more information."
+,8-10,"Complete compliance.  Refer to WHO Report on the Global Tobacco Epidemic, 2011, Technical Note I for more information."
+C4,1-2,"Minimal compliance.  Refer to WHO Report on the Global Tobacco Epidemic, 2011, Technical Note I for more information."
+,3-7,"Moderate compliance.  Refer to WHO Report on the Global Tobacco Epidemic, 2011, Technical Note I for more information."
+,8-10,"Complete compliance.  Refer to WHO Report on the Global Tobacco Epidemic, 2011, Technical Note I for more information."
+O3,Pharmacy with Rx,Available in a pharmacy with a prescription
+,Pharmacy,Available in a pharmacy without a prescription
+,General store,Available in a general store
+O7,Pharmacy with Rx,Available in a pharmacy with a prescription
+,Pharmacy,Available in a pharmacy without a prescription
+,General store,Available in a general store
+O10,Pharmacy with Rx,Available in a pharmacy with a prescription
+,Pharmacy,Available in a pharmacy without a prescription
+,General store,Available in a general store
+R2,Currency codes,"See International Organization for Standardization, ISO 4217 currency names and code elements (http://www.iso.org/iso/currency_codes_list-1, accessed 1 Dec 2010)"
+R14,Currency codes,"See International Organization for Standardization, ISO 4217 currency names and code elements (http://www.iso.org/iso/currency_codes_list-1, accessed 1 Dec 2010)"
+N5,Currency codes,"See International Organization for Standardization, ISO 4217 currency names and code elements (http://www.iso.org/iso/currency_codes_list-1, accessed 1 Dec 2010)"
+M_Group,1,"No known data, or no recent data (since 2005) or data that is not both recent and representative (national population)"
+,2,Recent and representative data for either adults or youth
+,3,Recent and representative data for both adults and youth 
+,4,"Recent, representative and periodic data (at least every 5 years) for both adults and youth"
+P_Group,1,Data not reported or not categorised
+,2,Up to two public places completely smoke-free
+,3,Three to five public places completely smoke-free
+,4,Six to seven public places completely smoke-free
+,5,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation; excluding pubs and bars where these are illegal))
+O_Group,1,Data not reported
+,2,None
+,3,NRT (Nicotine replacement therapy) and/or some cessation services (neither cost-covered)
+,4,NRT and/or some cessation services (at least one of which is cost-covered)
+,5,"National quit line, and both NRT and some cessation services cost-covered"
+W_Group,1,Data not reported
+,2,No warnings or small warnings (<30%)
+,3,Medium size warnings (30%-49%) missing one or more appropriate characteristics OR large warnings (?50%) missing four or more appropriate characteristics
+,4,Medium size warnings (30%-49%) with all seven appropriate characteristics OR large warnings (?50%) missing one or more appropriate characteristics
+,5,Large warnings (?50%) with all seven appropriate characteristics
+W_MM_Group,1,Data not reported
+,2,No campaign conducted between January 2009 and August 2010 with a duration of at least three weeks
+,3,Campaign conducted with one to four appropriate characteristics
+,4,Campaign conducted with five to six appropriate characteristics
+,5,Campaign conducted with all seven appropriate characteristics  
+E_Group,1,Data not reported
+,2,"Complete absence of ban, or ban that does not cover national TV, radio and print media"
+,3,"Ban on national TV, radio and print media only"
+,4,"Ban on national TV, radio and print media as well as on some but not all other forms of direct and/or indirect advertising"
+,5,Ban on all forms of direct and indirect advertising
+R_Group,1,Data not reported
+,2,?25% of retail price is tax
+,3,26–50% of retail price is tax
+,4,51–75% of retail price is tax
+,5,>75% of retail price is tax
+NTCP_Group,1,Data not reported
+,2,No national agency on tobacco control
+,3,Existence of national agency with responsibility for tobacco control objectives with no or < 5 full-time equivalent staff members
+,4,Existence of national agency with responsibility for tobacco control objectives and at least 5 full-time equivalent staff members
+Footnotes,a,"Smoke-free legislation does not meet criteria for a complete ban, which is defined such that smoking is not allowed at any time in any indoor area under any circumstances. However, there is very strong subnational smoke-free legislation meeting these conditions."
+,b,"Generally, smoking is prohibited on public transport and taxis but smoking rooms or cabins may be established on passenger ships and ferries."
+,c,"The legislation does not allow designated smoking rooms except if the health authority allows them by administrative act. Until now, no such administrative act has been taken."
+,d,Designated smoking rooms are allowed without specific technical requirements but are practically all located outside the buildings.
+,e,The reported compliance is a calculated average of the assessment from experts from the West Bank and the Gaza Strip.
+,f,There is a partial system based on citizen complaint; the manager of the premises is required to order the offender to comply immediately with the law. If the offender does not comply the manager is obliged to inform the police.
+,g,"Gum and patches are sold in Denmark without prescription in pharmacies, at supermarkets, gas stations, etc.  Resoriblets (tablets) and inhalers are sold in pharmacies without prescription."
+,h,All tobacco products sold in Andorra are imported from France or Spain and therefore follow the French or Spanish laws on health warnings. 
+,i,Bhutan prohibits the sale of all tobacco products; tobacco products imported for personal consumption shall show the country of origin and appropriate health warnings as required by the Ministry of Health.
+,j,"The two subnational jurisdictions of the country, Federation of Bosnia and Herzegovina and Republika Srpska,adopted separate tobacco control legislation with several differences, so no national legislation is reported."
+,k,Regulations will be issued shortly.
+,l,Regulations pending.
+,m,All tobacco products sold in Monaco are imported from France and therefore follow the French law on health warnings.
+,n,At least 25% of the surface occupied by the trademark is mandated for the health warning; in practice the size of the warning is less than 30% of the package.
+,o,The sale of smokeless tobacco products is banned
+,p,It is mandatory that a website address appears on the package providing information about smoking cessation.
+,q,"The Government of Canada has not implemented a nation-wide mass media campaign during the reporting period.  However, mass media campaigns have been implemented in eight of Canada's subnational jurisdictions."
+,r,"There was no nation-wide mass media campaign during the reporting period.  However, mass media campaigns have been implemented in many of Ecuador's large cities."
+,s,Anti-tobacco mass media campaigns with similar characteristics were implemented in all four countries of the United Kingdom of Great Britain and Northern Ireland. 
+,t,"In practice, tobacco brand advertisements have not been broadcast on television and radio since April 1998 and are not conducted on buses, taxis, ships or airplanes."
+,u,The reported compliance is a calculated average of the assessment from experts from the West Bank and the Gaza Strip.
+,v,"Although the law does not address the issue of non-tobacco services identified with tobacco brand names it mandates that no person shall be allowed to advertise any goods using the name or trademark of tobacco and tobacco products ; nor shall any person be allowed to manufacture, import, sell or distribute toys, edibles, wares or any other goods showing the name , trademark or label of tobacco and tobacco products. "
+,w,The law prohibits free distribution and promotion to minors under the age of 18 years.
+,x,Complete ban on appearance of tobacco products in TV.
+,y,Policy adopted but not implemented by 31 December 2010
+,z,Data not substantiated by a copy of the legislation
+,aa,"Subnational rates and national excise taxation rates have been used by WHO to reflect an average Canadian taxation rate. Consequently, the reported taxation rates will be different to the posted tax rates.  The price is a sales-weighted average of the price in Canada for the most sold brand."
+,ab,Health-competent authorities have not reviewed tax and price data.
+,ac,"The price is a sales-weighted average of State prices, the taxes include the Federal taxes and a State tax sales-weighted average."
+,ad,Data apply only to West Bank.
+,af,The quit line number appears on one of the 16 rotating health warnings.
+End of file.,,
