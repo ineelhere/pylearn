@@ -21,6 +21,7 @@ The folder **"Learning101"** contains a step by step guide to understand the **"
 * https://pythonhosted.org/PyPDF2/PdfFileReader.html
 * https://pandas.pydata.org/docs/
 * https://docs.python.org/3/library/statistics.html
+* https://www.tutorialspoint.com/data_structures_algorithms/index.htm
 
 
 Additional content coming soon!
