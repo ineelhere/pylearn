@@ -15,6 +15,7 @@ The folder **"Learning101"** contains a step by step guide to understand the **"
 * https://stackoverflow.com/questions/9841303/removing-duplicate-characters-from-a-string
 * https://stackoverflow.com/questions/7794208/how-can-i-remove-duplicate-words-in-a-string-with-python
 * https://stackoverflow.com/questions/51233/how-can-i-retrieve-the-page-title-of-a-webpage-using-python
+* https://pythonhosted.org/PyPDF2/PdfFileReader.html
 
 
 Additional content coming soon!
