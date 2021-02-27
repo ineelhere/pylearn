@@ -14,6 +14,7 @@ The folder **"Learning101"** contains a step by step guide to understand the **"
 * https://www.w3schools.com/python/ref_string_join.asp
 * https://stackoverflow.com/questions/9841303/removing-duplicate-characters-from-a-string
 * https://stackoverflow.com/questions/7794208/how-can-i-remove-duplicate-words-in-a-string-with-python
+* https://stackoverflow.com/questions/51233/how-can-i-retrieve-the-page-title-of-a-webpage-using-python
 
 
 Additional content coming soon!
