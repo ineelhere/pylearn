@@ -4,6 +4,7 @@
 - Collaborations are welcome! <br>
 
 The folder **"Learning101"** contains a step by step guide to understand the **"basics" in python**
+<br>👉👉 <a href="https://sites.google.com/view/indraneelchakraborty/blogs/py101">py101 - Learning python from scratch</a> 👈👈
 
 
 #### References
