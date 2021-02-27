@@ -9,7 +9,7 @@ The folder **"Learning101"** contains a step by step guide to understand the **"
 ### Data Sources
 * <a href="https://www.who.int/tobacco/global_report/2011/full_dataset/en/">WHO report on the global tobacco epidemic 2011: warning about the dangers of tobacco </a>
 
-#### References
+#### References & good reads
 * https://www.python.org/
 * https://www.oreilly.com/library/view/python-for-data/9781491957653/
 * https://www.w3schools.com/python/python_howto_reverse_string.asp
@@ -18,6 +18,7 @@ The folder **"Learning101"** contains a step by step guide to understand the **"
 * https://stackoverflow.com/questions/9841303/removing-duplicate-characters-from-a-string
 * https://stackoverflow.com/questions/7794208/how-can-i-remove-duplicate-words-in-a-string-with-python
 * https://stackoverflow.com/questions/51233/how-can-i-retrieve-the-page-title-of-a-webpage-using-python
+* https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php
 * https://pythonhosted.org/PyPDF2/PdfFileReader.html
 * https://pandas.pydata.org/docs/
 * https://docs.python.org/3/library/statistics.html
