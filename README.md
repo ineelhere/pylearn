@@ -23,6 +23,7 @@ The folder **"Learning101"** contains a step by step guide to understand the **"
 * https://pandas.pydata.org/docs/
 * https://docs.python.org/3/library/statistics.html
 * https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+* https://www.edureka.co/blog/interview-questions/python-interview-questions/
 
 
 Additional content coming soon!
