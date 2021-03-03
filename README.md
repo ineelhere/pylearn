@@ -25,6 +25,8 @@ The folder **"Learning101"** contains a step by step guide to understand the **"
 * https://www.tutorialspoint.com/data_structures_algorithms/index.htm
 * https://www.edureka.co/blog/interview-questions/python-interview-questions/
 * https://docs.python.org/3/library/os.html
+* https://realpython.com/linear-regression-in-python/#simple-linear-regression-with-scikit-learn
+* https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html
 
 
 Additional content coming soon!
