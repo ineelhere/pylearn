@@ -9,7 +9,7 @@ The folder **"Learning101"** contains a step by step guide to understand the **"
 ### Data Sources
 * <a href="https://www.who.int/tobacco/global_report/2011/full_dataset/en/">WHO report on the global tobacco epidemic 2011: warning about the dangers of tobacco </a>
 
-#### References & good reads
+#### References & Learning Resources
 * https://www.python.org/
 * https://www.oreilly.com/library/view/python-for-data/9781491957653/
 * https://www.w3schools.com/python/python_howto_reverse_string.asp
