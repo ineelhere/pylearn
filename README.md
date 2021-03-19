@@ -28,6 +28,7 @@ The folder **"Learning101"** contains a step by step guide to understand the **"
 * https://realpython.com/linear-regression-in-python/#simple-linear-regression-with-scikit-learn
 * https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html
 * https://www.w3schools.com/python/ref_dictionary_fromkeys.asp
+* https://www.w3schools.com/python/python_lambda.asp
 
 
 Additional content coming soon!
