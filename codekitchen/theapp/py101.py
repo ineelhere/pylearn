@@ -8,7 +8,7 @@ def codearea():
     """, unsafe_allow_html=True)
 
 def first():
-    st.subheader("**First things first**")
+    st.subheader("First things first")
     st.markdown("""
     In order to code, you will need of course, the language itself.  First, let us get our programming languages installed and set up in our systems. To install and get started with python, simply follow the steps here -  \n
 
