@@ -10,11 +10,13 @@ ___
 **Development and Strategy**
 - [Bhanu Chandrika Chitta](https://www.linkedin.com/in/chitta-bhanu-chandrika/)
 - [Indraneel Chakraborty](https://www.linkedin.com/in/indraneelchakraborty/)
+
 **Quality Review and Resource Management **
 - [Puja Roychowdhury](https://www.linkedin.com/in/pujarc98/)
 - [Sneha Podder](http://www.linkedin.com/in/snehapodder)
 ___
-Collaborate here [https://github.com/ineelhere/pylearn](https://github.com/ineelhere/pylearn)
+Found this interesting?  \n
+**Collaborate** here [https://github.com/ineelhere/pylearn](https://github.com/ineelhere/pylearn)
 ___
 
 **© dspy | 2021 | with ❤️ from India**
