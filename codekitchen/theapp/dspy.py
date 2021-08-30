@@ -5,19 +5,18 @@ st.sidebar.subheader("About dspy")
 st.sidebar.info("**A webapp that is running on python and teaching python!**")
 st.sidebar.markdown("""
 <img src="https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif" width="200"><br>
-<hr>
-
+___
 ## Meet the Team  
-
 **Development and Strategy**
 - [Bhanu Chandrika Chitta](https://www.linkedin.com/in/chitta-bhanu-chandrika/)
 - [Indraneel Chakraborty](https://www.linkedin.com/in/indraneelchakraborty/)
-
 **Quality Review and Resource Management **
 - [Puja Roychowdhury](https://www.linkedin.com/in/pujarc98/)
 - [Sneha Podder](http://www.linkedin.com/in/snehapodder)
-
 ___
+Collaborate here [https://github.com/ineelhere/pylearn](https://github.com/ineelhere/pylearn)
+___
+
 **© dspy | 2021 | with ❤️ from India**
 """, unsafe_allow_html=True)
 
@@ -45,4 +44,3 @@ ___
 **© dspy | 2021 | with ❤️ from India**
 """)
 st.warning("**Development in progress. More features are on the way!**")
-
