@@ -16,7 +16,7 @@ ___
 - [Sneha Podder](http://www.linkedin.com/in/snehapodder)
 ___
 Found this interesting?  \n
-**Collaborate** here [https://github.com/ineelhere/pylearn](https://github.com/ineelhere/pylearn)
+**Collaborate** here [https://github.com/ineelhere/pylearn/tree/master/codekitchen/theapp](https://github.com/ineelhere/pylearn/tree/master/codekitchen/theapp)
 ___
 
 **© dspy | 2021 | with ❤️ from India**
