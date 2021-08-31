@@ -47,7 +47,7 @@ def helloworld():
         # although we can do this manually too, in one print statement
         st.write('Hello World!!  \nGet ready to rock-N-roll')
         # and that's how we do it !!
-        github_gist("https://gist.github.com/bhanuchandrika/8279b541cad6dc9de9d22c2db12147e2")
+    github_gist("https://gist.github.com/bhanuchandrika/8279b541cad6dc9de9d22c2db12147e2")
     st.success("Copy the above codes and try them in the code-area below")
     codearea()
 
