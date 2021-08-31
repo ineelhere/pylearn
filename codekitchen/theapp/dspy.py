@@ -18,7 +18,6 @@ ___
 Found this interesting?  \n
 **[Collaborate here](https://github.com/ineelhere/pylearn/tree/master/codekitchen/theapp)**
 ___
-
 **© dspy | 2021 | with ❤️ from India**
 """, unsafe_allow_html=True)
 
@@ -33,6 +32,7 @@ features = ["python 101 - Learn the basics of python",
             "pandas - Learn data analysis and manipulation",]
 selection = st.radio("", features)
 if selection == features[0]:
+    st.header("`python 101` - Learn the basics of python")
     st.balloons()
     first()
     helloworld()
