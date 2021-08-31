@@ -31,6 +31,7 @@ features = ["python 101 - Learn the basics of python",
             "pyPrac - Solve problems using python",
             "pandas - Learn data analysis and manipulation",]
 selection = st.radio("", features)
+st.write("___")
 if selection == features[0]:
     st.header("`python 101` - Learn the basics of python")
     st.balloons()
