@@ -37,7 +37,7 @@ if selection == features[0]:
     st.balloons()
     first()
     helloworld()
-    # numbers()
+    interact()
 else:
     st.write("![](https://media3.giphy.com/media/STZxU3AXEdwW4caLwS/giphy.gif?cid=790b761115e96593923fc6494cb027cacde63a309c048f29&rid=giphy.gif&ct=g)")
 
