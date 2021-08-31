@@ -1,0 +1,221 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "interact_with_python.ipynb",
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "3ixg03m2Z2sd"
+      },
+      "source": [
+        "2)  ***Interact with python***  \n",
+        "\n",
+        "To do some work, we need something to begin with - RIGHT?\n",
+        "\n",
+        "Say, you need a **bat** and a **ball** to play **Cricket** 🏏 \n",
+        "\n",
+        "Similarly, while coding we need some **input** from the **user** on which any task can be done."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "x3Zc2HcWyDDM",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "4321370a-593c-4801-bbf8-cdee3a5c65bd"
+      },
+      "source": [
+        "#asking user for a text (name)\n",
+        "username = input('Please enter your name - ')\n"
+      ],
+      "execution_count": 1,
+      "outputs": [
+        {
+          "name": "stdout",
+          "output_type": "stream",
+          "text": [
+            "Please enter your name - ineelhere\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "I_RRf5N49u7w"
+      },
+      "source": [
+        "### **What we saw?**  🤓 \n",
+        " There was a space/textbox for the user to  **input** some data(here : name).\n",
+        "\n",
+        "  Also the  user input  is saved in a variable called as  \"username\" .\n",
+        "\n",
+        " 💡 ✪   You can use any  other name  for the variable also.\n",
+        " "
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "O51Ta1oDyDFg",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "9e651319-febe-4659-ec95-007f11c9e0fc"
+      },
+      "source": [
+        "#lets greet the user now\n",
+        "print ('Hello ' +username)"
+      ],
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello ineelhere\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "qhe_VGephiGq"
+      },
+      "source": [
+        "### What we saw?  🤓 \n",
+        "The user   **input** which is saved in a variable \"username\"  is now used in the print statement with a '+' symbol before it.\n",
+        "\n",
+        " ### Question(s)  🙋🏻‍♂️ \n",
+        " ❓ What if  I missout putting + ?\n",
+        "\n",
+        "###Answer(s)\n",
+        "   🔅 Results in a syntax error  🙆‍♀️ \n",
+        "\n",
+        "  💡 ✪ Worry less about these errors ....make mistakes and enjoy this learning process...🧙‍♀️"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "Yg74V6POyR-6"
+      },
+      "source": [
+        "###OK so let's go a step ahead  😉 \n",
+        "### Enter other details and know how to calculate user's Age  🤓 \n",
+        "![](https://www.memesmonkey.com/images/memesmonkey/db/dbc21a88beb9170b624aaa15783669e7.jpeg)\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "khf_lj_5KGqC",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "3613e86c-759f-4ba7-ef99-7b967e891e6b"
+      },
+      "source": [
+        "#ask the user's birth year\n",
+        "year = input('Please enter your Birth Year - ')"
+      ],
+      "execution_count": 3,
+      "outputs": [
+        {
+          "name": "stdout",
+          "output_type": "stream",
+          "text": [
+            "Please enter your Birth Year - 1997\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "iufnBpuo2GDK"
+      },
+      "source": [
+        "### **What we saw**?  🤓 \n",
+        " Similar to  the name,there was another  space/textbox for the user to  **input** some data(here : birth year).\n",
+        "\n",
+        "  The  user input  is saved in a variable called as  \"year\" .\n",
+        "\n",
+        " 💡 ✪  Python is \"case-sensitive\" which means \"YEAR\",\"year\",\"Year\",\"yEAR\" are **four** different variable names. 🙎🏻 \n",
+        "\n",
+        " \n",
+        " "
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "KhjEzebcKIWZ",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "eb9f796b-4653-4c87-f70d-4fa5645e3d7b"
+      },
+      "source": [
+        "#calculating the age, here we have to change the type for year from string to integer\n",
+        "age = 2021- int(year)\n",
+        "\n",
+        "#now we will print the results\n",
+        "print(f'Hey {username}, You are {age} years old :) ')\n",
+        "\n",
+        "#using \"f\" before writing the print statement saves us a lot of time and effort\n",
+        "#just need to keep in mind that we are keeping the variables in {}"
+      ],
+      "execution_count": 4,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hey ineelhere, You are 24 years old :) \n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "kWrU75MWHqEF"
+      },
+      "source": [
+        "###  **What we saw?** 🙄 \n",
+        " Age of the user has been calculated simply by subtracting birth year from the current year(here : 2021).\n",
+        "### Question(s)  🙋🏻‍♂️ \n",
+        "\n",
+        "❓  What is int😨?\n",
+        "\n",
+        "###Answer(s)\n",
+        " 🔅 int stands for **integer** datatype.\n",
+        "  \n",
+        " 💡 ✪ All the input  by the user by default is regarded as string and has to be converted into another data type to perform tasks\n",
+        "\n",
+        " 💡 ✪ Checkout \"Type conversion in python\" to learn more.\n"
+      ]
+    }
+  ]
+}
