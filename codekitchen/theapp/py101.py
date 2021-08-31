@@ -33,7 +33,7 @@ def helloworld():
     sandbox="allow-scripts allow-same-origin">
     </iframe>
     """, unsafe_allow_html=True)
-    github_gist("https://gist.github.com/bhanuchandrika/8279b541cad6dc9de9d22c2db12147e2")
+    github_gist("https://gist.github.com/bhanuchandrika/8279b541cad6dc9de9d22c2db12147e2", width=800)
     codearea()
 
 def interact():
@@ -46,7 +46,7 @@ def interact():
     sandbox="allow-scripts allow-same-origin">
     </iframe>
     """, unsafe_allow_html=True)    
-    github_gist("https://gist.github.com/bhanuchandrika/19633987195c8524a3a1d51f30c9032a")
+    github_gist("https://gist.github.com/bhanuchandrika/19633987195c8524a3a1d51f30c9032a", width=800)
     codearea()
 
 
