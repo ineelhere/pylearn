@@ -1,5 +1,6 @@
 import streamlit as st
 from py101 import *
+from pandas101 import *
 
 st.sidebar.subheader("About dspy")
 st.sidebar.info("**A webapp that is running on python and teaching python!**")
@@ -10,7 +11,6 @@ ___
 **Development and Strategy**
 - [Bhanu Chandrika Chitta](https://www.linkedin.com/in/chitta-bhanu-chandrika/)
 - [Indraneel Chakraborty](https://www.linkedin.com/in/indraneelchakraborty/)
-
 **Quality Review and Resource Management **
 - [Puja Roychowdhury](https://www.linkedin.com/in/pujarc98/)
 - [Sneha Podder](http://www.linkedin.com/in/snehapodder)
@@ -38,6 +38,8 @@ if selection == features[0]:
     first()
     helloworld()
     interact()
+if selection == features[2]:
+    pandas101()
 else:
     st.write("![](https://media3.giphy.com/media/STZxU3AXEdwW4caLwS/giphy.gif?cid=790b761115e96593923fc6494cb027cacde63a309c048f29&rid=giphy.gif&ct=g)")
 
