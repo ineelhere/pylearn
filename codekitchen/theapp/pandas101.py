@@ -54,10 +54,10 @@ def pandas101():
     ''', unsafe_allow_html= True)
     github_gist('https://gist.github.com/ineelhere/5814fb6f29c42081945f1f31c7c09aa2', width=800)
 
-    st.subheader("3. Import and export your data")
+#     st.subheader("3. Import and export your data")
 
-    st.markdown("""
-    * Pandas basically reads your data at source and stores it into a dataframe - the two dimensional data format we spoke above.
-    * Your data at the source can be in various formats, like - `csv`, `xlsx`, `tsv`, `json` etc.
-    * For every data format pandas has a solution. Not everything can be covered here, so we highly encourage you to google these things!
-    """)
+#     st.markdown("""
+#     * Pandas basically reads your data at source and stores it into a dataframe - the two dimensional data format we spoke above.
+#     * Your data at the source can be in various formats, like - `csv`, `xlsx`, `tsv`, `json` etc.
+#     * For every data format pandas has a solution. Not everything can be covered here, so we highly encourage you to google these things!
+#     """)
