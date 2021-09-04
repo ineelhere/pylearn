@@ -48,8 +48,3 @@ def interact():
     """, unsafe_allow_html=True)    
     github_gist("https://gist.github.com/bhanuchandrika/19633987195c8524a3a1d51f30c9032a", width=800)
     codearea()
-
-
-
-
-   

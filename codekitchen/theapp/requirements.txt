@@ -1,2 +1,3 @@
 pandas >= 0
 streamlit_embedcode >= 0
+textblob >= 0

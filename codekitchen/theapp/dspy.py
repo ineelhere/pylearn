@@ -1,6 +1,7 @@
 import streamlit as st
 from py101 import *
 from pandas101 import *
+from pyApps import *
 
 st.sidebar.subheader("About dspy")
 st.sidebar.info("**A webapp that is running on python and teaching python!**")
@@ -11,6 +12,7 @@ ___
 **Development and Strategy**
 - [Bhanu Chandrika Chitta](https://www.linkedin.com/in/chitta-bhanu-chandrika/)
 - [Indraneel Chakraborty](https://www.linkedin.com/in/indraneelchakraborty/)
+
 **Quality Review and Resource Management **
 - [Puja Roychowdhury](https://www.linkedin.com/in/pujarc98/)
 - [Sneha Podder](http://www.linkedin.com/in/snehapodder)
@@ -26,10 +28,12 @@ st.markdown("""
 ___
 """)
 
-st.subheader("Please select what you would like to do")
+st.header("**Please `select` what you would like to do**")
 features = ["python 101 - Learn the basics of python",
             "pyPrac - Solve problems using python",
-            "pandas - Learn data analysis and manipulation",]
+            "pyApps - Some simple data apps made with python",
+            "pandas - Learn data analysis and manipulation",
+            ]
 selection = st.radio("", features)
 st.write("___")
 if selection == features[0]:
@@ -38,11 +42,15 @@ if selection == features[0]:
     first()
     helloworld()
     interact()
-if selection == features[2]:
+
+if selection == features[3]:
     pandas101()
-else:
+
+if selection == features[1]:
     st.write("![](https://media3.giphy.com/media/STZxU3AXEdwW4caLwS/giphy.gif?cid=790b761115e96593923fc6494cb027cacde63a309c048f29&rid=giphy.gif&ct=g)")
 
+if selection == features[2]:
+    pyApps()
 
 st.markdown("""
 ___
