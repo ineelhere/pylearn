@@ -41,7 +41,7 @@ features = ["python 101 - Learn the basics of python",
 selection = st.radio("", features)
 st.write("___")
 if selection == features[0]:
-    st.header("`python 101` - Learn the basics of python")
+    st.header("**`python 101` - Learn the basics of python**")
     st.balloons()
     first()
     helloworld()
