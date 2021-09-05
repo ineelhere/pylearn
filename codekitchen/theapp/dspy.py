@@ -28,7 +28,7 @@ st.header("**Please `select` what you would like to do**")
 features = ["python 101 - Learn the basics of python",
             "pyPrac - Solve problems using python",
             "pyApps - Some simple data apps made with python",
-            "pandas - Learn data analysis and manipulation",
+            "pandas101 - Learn data analysis and manipulation",
             ]
 selection = st.radio("", features)
 st.write("___")
