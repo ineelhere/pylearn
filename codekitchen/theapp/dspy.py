@@ -12,15 +12,7 @@ st.sidebar.markdown("""
   \n\nWe encourage collaborations and usage of this webapp for education/training purposes.
   \n\nFor any queries/feedback please feel free to connect with the team on LinkedIn.
 ___
-## Meet the Team  
-**Development and Strategy**
-- [Bhanu Chandrika Chitta](https://www.linkedin.com/in/chitta-bhanu-chandrika/)
-- [Indraneel Chakraborty](https://www.linkedin.com/in/indraneelchakraborty/)
 
-**Quality Review and Resource Management **
-- [Puja Roychowdhury](https://www.linkedin.com/in/pujarc98/)
-- [Sneha Podder](http://www.linkedin.com/in/snehapodder)
-___
 Found this interesting?  \n
 **[Collaborate here](https://github.com/ineelhere/pylearn/tree/master/codekitchen/theapp)**
 ___
