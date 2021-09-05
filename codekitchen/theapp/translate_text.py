@@ -126,5 +126,5 @@ def translate_text():
     *Related info*
     * Library reference: https://pypi.org/project/textblob/
     * Translation API: https://py-googletrans.readthedocs.io/en/latest/
-    * Created with [Streamlit](http://streamlit.io/) by [Indraneel Chakraborty](https://www.linkedin.com/in/indraneelchakraborty/)
+    * Created with [Streamlit](http://streamlit.io/) 
     """)
