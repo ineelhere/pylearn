@@ -1,5 +1,6 @@
 import streamlit as st
 from textblob import TextBlob
+import textblob.exceptions
 
 def translate_text():
     st.info("**TEXT  TRANSLATOR  PYTHON  WEBAPP**")
@@ -120,11 +121,16 @@ def translate_text():
         del languages[lang]
         lang_out = st.selectbox("Select or type which language you want to translate to", list(languages.values()))
         st.write (f"Translated Text in **`{lang_out}`** language:")
-        st.success(f"**{blob.translate(to=list(languages.keys())[list(languages.values()).index(lang_out)])}**")
+        try:
+            translated = blob.translate(to=list(languages.keys())[list(languages.values()).index(lang_out)])
+        except textblob.exceptions.NotTranslated:
+            st.error(f"Sorry, this translation could not be performed. Please select a language other than **`{lang_out}`**")
+        else:
+            st.success(f"**{translated}**")
     
     st.markdown("""
     *Related info*
     * Library reference: https://pypi.org/project/textblob/
     * Translation API: https://py-googletrans.readthedocs.io/en/latest/
-    * Created with [Streamlit](http://streamlit.io/) 
+    * Created with [Streamlit](http://streamlit.io/) by [Indraneel Chakraborty](https://www.linkedin.com/in/indraneelchakraborty/)
     """)
