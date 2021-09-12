@@ -75,6 +75,7 @@ def pandas101():
     </iframe>
 
     The `example_file.csv` file created as a result of the above code is available [here](https://github.com/ineelhere/pylearn/blob/master/codekitchen/datafiles/example_file.csv)
- 
+    
     """, unsafe_allow_html=True)
     github_gist('https://gist.github.com/ineelhere/8c9b5e191328bad9be9182704b3f49da', width=800)
+
