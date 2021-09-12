@@ -10,6 +10,8 @@ def about():
     \n\nIsn't it nice that one is actually using python to learn/teach python?! This gives an idea of what can be done with python (beyond what has been discussed in this webapp).
     \n\nWe encourage collaborations and usage of this webapp for education/training purposes.
     \n\nFor any queries/feedback please feel free to connect with the team on LinkedIn.
+    \n\n**Go to the sidebar on the left to get started!**
+    <br><br><img src="https://media4.giphy.com/media/1HFW57gpsSLEA/giphy.gif?cid=ecf05e471w5lcqqe3si4trgjn9pqpjft6go4tc7mu6b9h79z&rid=giphy.gif&ct=g"><br>
     """, unsafe_allow_html=True)
     
     st.info("""
