@@ -34,6 +34,7 @@ if selection == features[1]:
     first()
     helloworld()
     interact()
+    numbers()
 
 if selection == features[4]:
     pandas101()
