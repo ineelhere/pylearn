@@ -34,7 +34,7 @@ def helloworld():
     sandbox="allow-scripts allow-same-origin">
     </iframe>
     """, unsafe_allow_html=True)
-    github_gist("https://gist.github.com/ineelhere/45f65381b6947026c90f4bc8476bc351", width=800)
+    github_gist("https://gist.github.com/ineelhere/45f65381b6947026c90f4bc8476bc351", width=800, height=300)
     codearea()
 
 def interact():
@@ -92,3 +92,4 @@ def strings():
     """, unsafe_allow_html=True)
     github_gist("https://gist.github.com/ineelhere/1a384259bf5f8c5510eaf1b0cd419c88", width=800)
     codearea()
+
