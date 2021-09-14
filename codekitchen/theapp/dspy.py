@@ -36,6 +36,7 @@ if selection == features[1]:
     interact()
     numbers()
     math_func()
+    strings()
 
 if selection == features[4]:
     pandas101()
