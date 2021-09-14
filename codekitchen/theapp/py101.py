@@ -77,3 +77,19 @@ def math_func():
     """, unsafe_allow_html=True)
     github_gist("https://gist.github.com/ineelhere/c6b77aa48d3695c32712b18801adc43a", width=800)
     codearea()
+
+def strings():
+    st.subheader("**Strings in python**")
+    st.markdown("""
+    Here we will see how to handle strings in python.  \n
+    When we deal with data, we mostly deal with strings - which we then reformat according to our choices.  \n
+    So, it is important that we deal properly with the strings such that we don't loose data.
+    <iframe
+    src="https://carbon.now.sh/embed?bg=rgba%280%2C0%2C0%2C0%29&t=panda-syntax&wt=none&l=python&ds=false&dsyoff=36px&dsblur=68px&wc=true&wa=true&pv=19px&ph=20px&ln=false&fl=1&fm=Fira+Code&fs=14px&lh=152%25&si=false&es=2x&wm=false&code=%250A%2523%2520write%2520a%2520long%2520string%2520%28multiple%2520lines%2520without%2520using%2520%255Cn%29%250Along_string%2520%253D%2520%27%27%27%250AHello%2520there%21%250AWe%2520are%2520currently%2520creating%2520a%2520long%2520string.%250AWrite%2520multiple%2520lines%2520here%252C%250Awithout%2520any%2520worries.%2520B-%29%250A%27%27%27%250Aprint%28long_string%29%250A%2523using%2520escape%2520sequences%250A%250A%2520%2520%2520%2520%2523it%27s%2520difficult%2520to%2520insert%2520a%2520special%2520character%2520in%2520a%2520string%2520or%2520print%2520statement.%250A%2520%2520%2520%2520%2523so%252C%2520we%2520use%2520%255C%2520as%2520our%2520saviour%21%250Aprint%28%2522See%252C%2520we%2520are%2520writing%2520%255C%2522%2520in%2520%2520a%2520print%2520statement%2520without%2520any%2520worries%21%2522%29%250Aprint%28%27Isn%255C%27t%2520it%2520awesome%253F%253F%27%29"
+    style="width: 776px; height: 427px; border:0; transform: scale(1); overflow:hidden;"
+    sandbox="allow-scripts allow-same-origin">
+    </iframe>
+    """, unsafe_allow_html=True)
+    github_gist("https://gist.github.com/ineelhere/1a384259bf5f8c5510eaf1b0cd419c88", width=800)
+    codearea()
+
