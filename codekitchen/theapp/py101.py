@@ -47,7 +47,7 @@ def interact():
     sandbox="allow-scripts allow-same-origin">
     </iframe>
     """, unsafe_allow_html=True)    
-    github_gist("https://gist.github.com/ineelhere/d4a32717597eb2c89a7e68d1a06e07b7", width=800)
+    github_gist("https://gist.github.com/ineelhere/d4a32717597eb2c89a7e68d1a06e07b7", width=800, height=500)
     codearea()
 
 def numbers():
@@ -61,7 +61,7 @@ def numbers():
     sandbox="allow-scripts allow-same-origin">
     </iframe>
     """, unsafe_allow_html=True)
-    github_gist("https://gist.github.com/ineelhere/13b6a1592d14ca05ef74b681803d65ed", width=800)
+    github_gist("https://gist.github.com/ineelhere/13b6a1592d14ca05ef74b681803d65ed", width=800, height=500)
     codearea()
 
 def math_func():
@@ -75,7 +75,7 @@ def math_func():
     sandbox="allow-scripts allow-same-origin">
     </iframe>
     """, unsafe_allow_html=True)
-    github_gist("https://gist.github.com/ineelhere/c6b77aa48d3695c32712b18801adc43a", width=800)
+    github_gist("https://gist.github.com/ineelhere/c6b77aa48d3695c32712b18801adc43a", width=800, height=500)
     codearea()
 
 def strings():
@@ -90,6 +90,6 @@ def strings():
     sandbox="allow-scripts allow-same-origin">
     </iframe>
     """, unsafe_allow_html=True)
-    github_gist("https://gist.github.com/ineelhere/1a384259bf5f8c5510eaf1b0cd419c88", width=800)
+    github_gist("https://gist.github.com/ineelhere/1a384259bf5f8c5510eaf1b0cd419c88", width=800, height=500)
     codearea()
 
