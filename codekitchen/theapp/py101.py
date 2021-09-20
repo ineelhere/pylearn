@@ -93,3 +93,19 @@ def strings():
     github_gist("https://gist.github.com/ineelhere/1a384259bf5f8c5510eaf1b0cd419c88", width=800, height=500)
     codearea()
 
+def all():
+    st.subheader("**Let's code!**")
+    st.markdown("""
+    * Open a notebook in Google Colab - <a href="https://colab.research.google.com/" target="_blank"><img width="64" height="64" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Github" > </a>
+    * Follow along with the lines of codes listed below.
+    * Simply copy pasting is not recommended, but if you are here for a quick revision, please feel free to do whatever that saves your time!
+    * This whole notebook is [availabele here](https://github.com/ineelhere/pylearn/blob/master/codekitchen/ipynb_files/all_codes_py101.ipynb).
+
+
+    <iframe src="https://ineelhere.github.io/pylearn/all_codes_py101.html" title="W3Schools Free Online Web Tutorials"  width="800" height="1000"></iframe>
+    <br><br><br>
+
+    ![](https://imgs.xkcd.com/comics/python.png)
+    """, unsafe_allow_html=True)
+    
+    
