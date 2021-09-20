@@ -32,11 +32,12 @@ if selection == features[1]:
     st.header("**`python 101` - Learn the basics of python**")
     st.balloons()
     first()
-    helloworld()
-    interact()
-    numbers()
-    math_func()
-    strings()
+    all()
+    # helloworld()
+    # interact()
+    # numbers()
+    # math_func()
+    # strings()
 
 if selection == features[4]:
     pandas101()
