@@ -3,6 +3,7 @@ from textblob import TextBlob
 import textblob.exceptions
 
 def translate_text():
+    st.error("**Message: API Limit maxed out!**")
     st.info("**TEXT  TRANSLATOR  PYTHON  WEBAPP**")
     languages = {
     'af': 'afrikaans',
