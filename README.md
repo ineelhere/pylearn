@@ -3,7 +3,9 @@
 - An initiative to "learn more" about python while "learning" it. 
 - Collaborations are welcome! <br>
 
-#### The app is now online. Access it here - [https://share.streamlit.io/ineelhere/pylearn/codekitchen/theapp/dspy.py](https://share.streamlit.io/ineelhere/pylearn/codekitchen/theapp/dspy.py)
+#### Access the app here - [https://share.streamlit.io/ineelhere/pylearn/codekitchen/theapp/dspy.py](https://share.streamlit.io/ineelhere/pylearn/codekitchen/theapp/dspy.py)
+*The app has been deactivated as of 6th November, 2021. Please visit https://share.streamlit.io/ineelhere/ineelhere/main/ineelhere.py for the python101 concepts.*
+
 
 The folder **"Learning101"** contains a step by step guide to understand the **"basics" in python**
 <br>👉👉 <a href="https://sites.google.com/view/indraneelchakraborty/blogs/py101">py101 - Learning python from scratch</a> 👈👈
